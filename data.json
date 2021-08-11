@@ -1,0 +1,25 @@
+{
+    "courses": [
+        {
+            "id": 1,
+            "title": "Node Js",
+            "author": "John Carpenter",
+            "topic": "javascript",
+            "url": "http://faztweb.com"
+        },
+        {
+            "id": 2,
+            "title": "rust",
+            "author": "John Carpenter",
+            "topic": "rust",
+            "url": "http://faztweb.com"
+        },
+        {
+            "id": 3,
+            "title": "Node Js",
+            "author": "John Carpenter",
+            "topic": "javascript",
+            "url": "http://faztweb.com"
+        }
+    ]
+}
